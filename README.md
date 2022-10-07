@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#technologies">Technologies</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#status">Status</a>
+<a href="#project-status">Project Status</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#license">License</a>
 </p>
@@ -24,7 +24,7 @@ The game currently contains 5 levels.
 
 - [Unity](https://unity.com/)
 
-## Status
+## Project Status
 
 > Status: Stopped.
 
