@@ -14,6 +14,12 @@
   <img src="https://user-images.githubusercontent.com/72872854/191565225-a556b7b2-8f8e-4eef-805c-385c84fdf796.gif" />
 </p>
 
+<p align="center">
+  <a href="https://img.shields.io/github/stars/shunny2/cat-mario-clone"><img src="https://img.shields.io/github/stars/shunny2/cat-mario-clone" alt="GitHub Repo stars" ></a>
+  <a href="https://img.shields.io/github/forks/shunny2/cat-mario-clone"><img src="https://img.shields.io/github/forks/shunny2/cat-mario-clone" alt="Repo Forks"/></a>
+  <a href="https://img.shields.io/github/license/shunny2/cat-mario-clone"><img src="https://img.shields.io/github/license/shunny2/cat-mario-clone" alt="License"/></a>
+</p>
+
 ## About Cat Mario Clone
 
 Cat Mario is a 2D platform game. This project is a clone of this game.
