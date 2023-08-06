@@ -26,7 +26,7 @@ Cat Mario is a 2D platform game. This project is a clone of this game.
 
 The game currently contains 5 levels.
 
-Game link available at: https://shunny2.github.io/cat-mario-clone/
+The game link is available at: https://shunny2.github.io/cat-mario-clone/
 
 ## Technologies
 
