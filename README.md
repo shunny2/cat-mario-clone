@@ -28,11 +28,19 @@ To achieve this goal, the project meticulously replicated key elements of Cat Ma
 
 Currently, <b>Cat Mario Clone</b> stands as a prototype with a total of 5 meticulously designed levels. However, it's important to note that the game was developed solely for educational purposes, aiming to showcase the game design principles that have made Cat Mario a beloved classic. With its faithful reproduction of the original's challenging gameplay, <b>Cat Mario Clone</b> invites players to test their skills and embark on a nostalgic journey reminiscent of the iconic game it draws inspiration from.
 
-The game link is available at https://shunny2.github.io/cat-mario-clone/
+The game link is available at [https://shunny2.github.io/cat-mario-clone/](https://shunny2.github.io/cat-mario-clone/).
 
 ## Technologies
 
-- [Unity](https://unity.com/)
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <td>
+      <a href="https://unity.com/" title="Unity3D"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity logo image." /></a>
+    </td>
+  </tbody>
+</table>
 
 ## Project Status
 
